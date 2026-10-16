@@ -1,0 +1,8 @@
+# Never commit private signing material, profiles or backups.
+*.key
+*.dpapi
+*.vltbak
+.env
+.env.*
+profiles/
+backups/
